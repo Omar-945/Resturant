@@ -21,5 +21,16 @@
 			</array>
 		</dict>
 	</dict>
+	<key>App Transport Security Settings
+
+Excerpt From
+Develop in Swift Data Collections
+Apple Education
+https://books.apple.com/eg/book/develop-in-swift-data-collections/id1581183203
+App Transport Security Settings</key>
+	<dict>
+		<key>Allows Local Networking</key>
+		<true/>
+	</dict>
 </dict>
 </plist>
